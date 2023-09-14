@@ -4,7 +4,7 @@ The assignment was to create a digital version of the board game Guess Who.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+I spent a lot of time to figure out the code and how everything was connected. Taking what I have learned from this weeks lessons and apply it to the code was tricky and I tried and failed a lot before making it work. It was a great feeling when the game was up and working :)
 
 ## View it live
 
